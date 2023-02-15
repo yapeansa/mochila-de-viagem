@@ -9,3 +9,7 @@ Projeto mochila de viagem desenvolvido durante o curso de Javascript da Alura
 - HTML
 - CSS
 - Javascript
+
+### Página do Projeto
+
+[https://yapeansa.github.io/mochila-de-viagem/](https://yapeansa.github.io/mochila-de-viagem/)
