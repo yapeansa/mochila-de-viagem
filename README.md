@@ -10,7 +10,7 @@ Projeto mochila de viagem desenvolvido durante o curso de Javascript da Alura.
 | :fire: Desafio     | https://yapeansa.github.io/mochila-de-viagem/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![Mochila de Viagem](img/projeto.png)
+![Mochila de Viagem](assets/projeto.png)
 
 <!--
 ## Detalhes do projeto
